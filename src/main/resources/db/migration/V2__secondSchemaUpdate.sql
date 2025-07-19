@@ -1,0 +1,1 @@
+ALTER TABLE category add column category_type   VARCHAR(255) NULL
